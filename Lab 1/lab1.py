@@ -14,7 +14,6 @@ import math
 # for i in range(0, 3):
 #     result += int(num)
 #     num += numBase
-#     i += 1
 # print(result)
 
 # Q3
